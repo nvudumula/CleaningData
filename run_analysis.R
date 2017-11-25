@@ -1,3 +1,7 @@
+library(data.table)
+library(dplyr)
+library(xlsx)
+
 var_names_t <- data.frame(file=character())
 vectorNames <- c()
 
@@ -97,7 +101,7 @@ readTestData <- function () {
 	X_sel_test_t
 }
 
-## Merge both the data sets and compuete mean for each variable
+## Merge both the data sets and compute mean for each variable
 
 MergeData <- function() {
 	X_train_t <- readTrainingData()
@@ -125,7 +129,7 @@ MergeData <- function() {
 		names(avg_total_data_t)[names(avg_total_data_t)==colName] <- k
 		i <- i+1
 	}
-	write.table(avg_total_data_t, file = "./data/TotalDataAvg.csv",row.names=FALSE, na="", sep=",")	
+	write.table(avg_total_data_t, file = "./data/TotalDataAvg.txt",row.names=FALSE, na="", sep=",")	
 	dataSets <- list(total_data_t,avg_total_data_t)		## create a list of two data sets to return
 	dataSets ## retrun the two data sets
 }
