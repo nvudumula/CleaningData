@@ -1,5 +1,5 @@
 ==================================================================
-## Peer-graded Assignment: Getting and Cleaning Data Course Project
+Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 ==================================================================
 Narayana Reddy Vudumula
@@ -7,7 +7,7 @@ Narayana Reddy Vudumula
 
 This project tries to collect and clean the data set that was given. 
 
-### main program and goals
+ main program and goals
 ======================================
 
 Main program is called run_analysis.R and it accomplishes the following four tasks to achieve the final results
@@ -18,7 +18,7 @@ Main program is called run_analysis.R and it accomplishes the following four tas
     4. Appropriately labels the data set with descriptive variable names.
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#### how to run
+how to run
 ============
 Emphasis
 
@@ -28,7 +28,7 @@ copy "data" directory to your current working dorectory
 Run the run_analysis.R file from the R command prompt.
 Output file will be produced in the data directory 
 
-#### The project includes the following files:
+The project includes the following files:
 =========================================
 
 - 'README.txt'
