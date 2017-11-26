@@ -4,12 +4,12 @@
 
 
 |Variable	| Description|
-------------------------------
-|Body	        |Signal based on the body of an experiment participant. One of the two components derived from the phone's accelaromete|r
-|Freq	        |Measurement derived from Time based siganl measurements using Fast Fourier Transform metho|d
-|Gravity	        |Signal based on Gravity, the force that attracts body towards the center of the earth. Gravity is the second of the two measurements derived from the Phone's acceleromete|r
-|Gyro	        |Measurement taken from the phone's gyroscop|e
-|Jerk	        Measurement of body's sudden movement based on body acceleration and angular velocit|y
+|---------------|------------|
+|Body	        |Signal based on the body of an experiment participant. One of the two components derived from the phone's accelarometer|
+|Freq	        |Measurement derived from Time based siganl measurements using Fast Fourier Transform method|
+|Gravity	        |Signal based on Gravity, the force that attracts body towards the center of the earth. Gravity is the second of the two measurements derived from the Phone's accelerometer|
+|Gyro	        |Measurement taken from the phone's gyroscope|
+|Jerk	        Measurement of body's sudden movement based on body acceleration and angular velocity|
 	
 	
 	
