@@ -1,13 +1,11 @@
-==================================================================
 Peer-graded Assignment: Getting and Cleaning Data Course Project
-
 ==================================================================
 Narayana Reddy Vudumula
 ==================================================================
 
 This project tries to collect and clean the data set that was given. 
 
- main program and goals
+Main program and goals
 ======================================
 
 Main program is called run_analysis.R and it accomplishes the following four tasks to achieve the final results
