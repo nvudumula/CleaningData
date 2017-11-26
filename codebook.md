@@ -13,8 +13,8 @@
 	
 	
 	
-volunteerSubjectId	|Id of the subject unde tests
-activityLabels	|Labels decribing activiy of each subject
+|volunteerSubjectId	|Id of the subject unde tests|
+|activityLabels	|Labels decribing activiy of each subject|
 	
 ### Time series signal values captured from the accelarometer and Gyroscope	
 	
@@ -26,42 +26,36 @@ activityLabels	|Labels decribing activiy of each subject
 |timeBodyAccStd_X	|Standard deviation of body's acceleration in the X direction|
 |timeBodyAccStd_Y	|Standard deviation of body's acceleration in the Y direction|
 |timeBodyAccStd_Z	|Standard deviation of body's acceleration in the Z direction|
-	
 |timeGravityAccMean_X	|Average value of Gavity pull in the X direction|
 |timeGravityAccMean_Y	|Average value of Gavity pull in the Y direction|
 |timeGravityAccMean_Z	|Average value of Gavity pull in the Z direction|
 |timeGravityAccStd_X	|Standard deviation of Gavity pull in the X direction|
 |timeGravityAccStd_Y	|Standard deviation of Gavity pull in the Y direction|
 |timeGravityAccStd_Z	|Standard deviation of Gavity pull in the Z direction|
-	
 |timeBodyAccJerkMean_X	|Average value of body's jerk in the X direction, due to acceleration|
 |timeBodyAccJerkMean_Y	|Average value of body's jerk in the Y direction, due to acceleration|
 |timeBodyAccJerkMean_Z	|Average value of body's jerk in the Z direction, due to acceleration|
 |timeBodyAccJerkStd_X	|Standard deviation of body's jerk in the X direction, due to acceleration|
 |timeBodyAccJerkStd_Y	|Standard deviation of body's jerk in the Y direction, due to acceleration|
 |timeBodyAccJerkStd_Z	|Standard deviation of body's jerk in the Z direction, due to acceleration|
-	
 |timeBodyGyroMean_X	|Average value of body's angular velocity from the Gyroscope in the X direction|
 |timeBodyGyroMean_Y	|Average value of body's angular velocity from the Gyroscope in the Y direction|
 |timeBodyGyroMean_Z	|Average value of body's angular velocity from the Gyroscope in the Z direction|
 |timeBodyGyroStd_X	|Standard deviation of body's angular velocity from the Gyroscope in the Z direction|
 |timeBodyGyroStd_Y	|Standard deviation of body's angular velocity from the Gyroscope in the Z direction|
 |timeBodyGyroStd_Z	|Standard deviation of body's angular velocity from the Gyroscope in the Z direction|
-	
 |timeBodyGyroJerkMean_X	|Average value of body's jerk in the X direction, due to angular velocity|
 |timeBodyGyroJerkMean_Y	|Average value of body's jerk in the Y direction, due to angular velocity|
 |timeBodyGyroJerkMean_Z	|Average value of body's jerk in the Z direction, due to angular velocity|
 |timeBodyGyroJerkStd_X	|Standard deviation of body's jerk in the X direction, due to angular velocity|
 |timeBodyGyroJerkStd_Y	|Standard deviation of body's jerk in the Y direction, due to angular velocity|
 |timeBodyGyroJerkStd_Z	|Standard deviation of body's jerk in the Z direction, due to angular velocity|
-	
 |timeBodyAccMagMean	|Average value of body's acceleration magnitude|
 |timeBodyAccMagStd	|Standard deviation of body's acceleration magnitude|
 |timeGravityAccMagMean	|Average value of gravitational pull magnitude|
 |timeGravityAccMagStd	|Standard deviation value of gravitational pull magnitude|
 |timeBodyAccJerkMagMean	|Average value of magnitude pertaining to body's jerk due to acceleration|
 |timeBodyAccJerkMagStd	|Standard deviation of  magnitude pertaining to body's jerk due to acceleration|
-	
 |timeBodyGyroMagMean	|Average value of magnitude pertaining to body's angular velocity from the Gyroscope|
 |timeBodyGyroMagStd	|Standard deviation of magnitude pertaining to body's angular velocity from the Gyroscope|
 |timeBodyGyroJerkMagMean	|Average value of magnitude pertaining to body's jerk, due to angular velocity|
@@ -77,21 +71,18 @@ activityLabels	|Labels decribing activiy of each subject
 |FreqBodyAccStd_X	|Standard deviation of body's acceleration in the X direction|
 |FreqBodyAccStd_Y	|Standard deviation of body's acceleration in the Y direction|
 |FreqBodyAccStd_Z	|Standard deviation of body's acceleration in the Z direction|
-	
 |FreqBodyAcc_meanFreq_X	|Weighted average of the frequency components pertainig to Body's acceleration in the direction X|
 |FreqBodyAcc_meanFreq_Y	|Weighted average of the frequency components pertainig to Body's acceleration in the direction Y|
 |FreqBodyAcc_meanFreq_Z	|Weighted average of the frequency components pertainig to Body's acceleration in the direction Z|
 |FreqBodyAccJerkMean_X	|Average value of body's jerk in the X direction, due to acceleration|
 |FreqBodyAccJerkMean_Y	|Average value of body's jerk in the Y direction, due to acceleration|
 |FreqBodyAccJerkMean_Z	|Average value of body's jerk in the Z direction, due to acceleration|
-	
 |FreqBodyAccJerkStd_X	|Standard deviation of body's jerk in the X direction, due to acceleration|
 |FreqBodyAccJerkStd_Y	|Standard deviation of body's jerk in the Y direction, due to acceleration|
 |FreqBodyAccJerkStd_Z	|Standard deviation of body's jerk in the Z direction, due to acceleration|
 |FreqBodyAccJerk_meanFreq_X	|Weighted average of the frequency components pertainig to Body's acceleration Jerk in the direction X|
 |FreqBodyAccJerk_meanFreq_Y	|Weighted average of the frequency components pertainig to Body's acceleration Jerk in the direction Y|
 |FreqBodyAccJerk_meanFreq_Z	|Weighted average of the frequency components pertainig to Body's acceleration Jerk in the direction Z|
-	
 |FreqBodyGyroMean_X	| Average value of body's angular velocity from the Gyroscope in the X direction|
 |FreqBodyGyroMean_Y	| Average value of body's angular velocity from the Gyroscope in the Y direction|
 |FreqBodyGyroMean_Z	| Average value of body's angular velocity from the Gyroscope in the Z direction|
@@ -101,7 +92,6 @@ activityLabels	|Labels decribing activiy of each subject
 |FreqBodyGyro_meanFreq_X	| Weighted average of the frequency components of body's angular velocity from the Gyroscope in the X direction|
 |FreqBodyGyro_meanFreq_Y	| Weighted average of the frequency components of body's angular velocity from the Gyroscope in the Y direction|
 |FreqBodyGyro_meanFreq_Z	| Weighted average of the frequency components of body's angular velocity from the Gyroscope in the Z direction|
-	
 |FreqBodyAccMagMean	        |Average value of body's acceleration magnitude|
 |FreqBodyAccMagStd	        |Standard deviation of body's acceleration magnitude|
 |FreqBodyAccMag_meanFreq	        |Weighted average of the frequency component of body's acceleration magnitude|
@@ -114,5 +104,4 @@ activityLabels	|Labels decribing activiy of each subject
 |FreqBodyBodyGyroJerkMagMean	        |Average value of magnitude pertaining to body's jerk, due to angular velocity|
 |FreqBodyBodyGyroJerkMagStd	        |Standard deviation of magnitude pertaining to body's jerk, due to angular velocity|
 |FreqBodyBodyGyroJerkMag_meanFreq	|Weighted average of the frequency components value of magnitude pertaining to body's jerk, due to angular velocity|
-	
 	
