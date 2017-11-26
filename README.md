@@ -1,5 +1,6 @@
 ==================================================================
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
+
 ==================================================================
 Narayana Reddy Vudumula
 ==================================================================
@@ -19,6 +20,8 @@ Main program is called run_analysis.R and it accomplishes the following four tas
 
 #### how to run
 ============
+Emphasis
+
 Set the working directory to your current code directory
 copy run_analysis.R to your working directory
 copy "data" directory to your current working dorectory
