@@ -1,6 +1,6 @@
-# Average values for the below data set	
+# final out is the Average values for the below data set	
 
-### All of the variables end with a suffix of _avg, for example FreqBodyBodyGyroJerkMag_meanFreq would have an equivalent average variable called FreqBodyBodyGyroJerkMag_meanFreq_avg	
+#### All of the variables end with a suffix of _avg, for example FreqBodyBodyGyroJerkMag_meanFreq would have an equivalent average variable called FreqBodyBodyGyroJerkMag_meanFreq_avg	
 
 
 |Variable	| Description|
@@ -9,10 +9,7 @@
 |Freq	        |Measurement derived from Time based siganl measurements using Fast Fourier Transform method|
 |Gravity	        |Signal based on Gravity, the force that attracts body towards the center of the earth. Gravity is the second of the two measurements derived from the Phone's accelerometer|
 |Gyro	        |Measurement taken from the phone's gyroscope|
-|Jerk	        Measurement of body's sudden movement based on body acceleration and angular velocity|
-	
-	
-	
+|Jerk	        |Measurement of body's sudden movement based on body acceleration and angular velocity|
 |volunteerSubjectId	|Id of the subject unde tests|
 |activityLabels	|Labels decribing activiy of each subject|
 	
