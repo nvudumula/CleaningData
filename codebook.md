@@ -1,6 +1,6 @@
-Average values for the below data set	
+#Average values for the below data set	
 
-All of the variables end with a suffix of _avg, for example FreqBodyBodyGyroJerkMag_meanFreq would have an equivalent average variable called FreqBodyBodyGyroJerkMag_meanFreq_avg	
+#All of the variables end with a suffix of _avg, for example FreqBodyBodyGyroJerkMag_meanFreq would have an equivalent average variable called FreqBodyBodyGyroJerkMag_meanFreq_avg	
 
 
 Variable	| Description
